@@ -17,3 +17,11 @@ W prwym dolnym rogo znajduje się panel sterujący parametrami symulacji. Można
  - przycisk stop, zatrzymujący lub wznawiajacy symulację.
  - przycisk wyjścia z aplikacji.
 
+
+## Sterowanie
+- <b>A, W, S, D</b> - zmiana pozycji w świecie gry
+- <b>Ruch myszki</b> - zmiana obrotu kamery
+- <b>R</b> - reset kulek w roju
+- <b>Shift</b> - teleporatacja nad środek mapy
+- <b>Tab</b> - teleporatacja obok mapy
+- <b>Esc</b> - schowanie panelu zmiany parametrów algorytmu oraz panelu symulacji
