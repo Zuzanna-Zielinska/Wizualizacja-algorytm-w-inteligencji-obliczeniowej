@@ -1,6 +1,11 @@
 # Wizualizacja algorytmów w inteligencji obliczeniowej
 
 Repozytorium zawiera plik wykonywalny aplikacji pokazującej działanie algorytmu optymalizacji rojem cząstek oraz szarego wilka. Został w Unreal Engine 4 na potrzeby studiów Automatyki i Robotyki w Akademi Górniczo Hutniczej przez Jacka Ankowskiego, Zuzannę Zielińską oraz Mateusza Kowalskiego.
+<p align="center">
+<img src="https://github.com/Zuzanna-Zielinska/Wizualizacja-algorytm-w-inteligencji-obliczeniowej/blob/main/images/i1.png" width="700"/>
+</p>
+
+https://github.com/user-attachments/assets/44bbb9bd-7bf4-42f3-873d-9d180d576d7d
 
 ## Działanie aplikacji
 
@@ -17,6 +22,7 @@ W prwym dolnym rogo znajduje się panel sterujący parametrami symulacji. Można
  - przycisk stop, zatrzymujący lub wznawiajacy symulację.
  - przycisk wyjścia z aplikacji.
 
+https://github.com/user-attachments/assets/8944ea7a-af52-49d5-85fa-bc68e6f4314d
 
 ## Sterowanie
 - <b>A, W, S, D</b> - zmiana pozycji w świecie gry
@@ -25,3 +31,5 @@ W prwym dolnym rogo znajduje się panel sterujący parametrami symulacji. Można
 - <b>Shift</b> - teleporatacja nad środek mapy
 - <b>Tab</b> - teleporatacja obok mapy
 - <b>Esc</b> - schowanie panelu zmiany parametrów algorytmu oraz panelu symulacji
+
+https://github.com/user-attachments/assets/8b949bdb-5145-4e0b-9b17-9408bb13133e
