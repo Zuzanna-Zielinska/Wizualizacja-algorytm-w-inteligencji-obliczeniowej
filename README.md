@@ -1,6 +1,6 @@
 # Wizualizacja algorytmów w inteligencji obliczeniowej
 
-Repozytorium zawiera plik wykonywalny aplikacji pokazującej działanie algorytmu optymalizacji rojem cząstek oraz szarego wilka. Został w Unreal Engine 4 na potrzeby studiów Automatyki i Robotyki w Akademi Górniczo Hutniczej przez Jacka Ankowskiego, Zuzannę Zielińską oraz Mateusza Kowalskiego.
+Repozytorium zawiera opis aplikacji pokazującej działanie algorytmu optymalizacji rojem cząstek oraz szarego wilka. Został w Unreal Engine 4 na potrzeby studiów Automatyki i Robotyki w Akademi Górniczo Hutniczej przez Jacka Ankowskiego, Zuzannę Zielińską oraz Mateusza Kowalskiego. Plik wykonwalny do pobrania [tutaj](https://drive.google.com/file/d/16x_TZzQPa83Vd9F1KRvu027RZfsLp43B/view?usp=drive_link).
 <p align="center">
 <img src="https://github.com/Zuzanna-Zielinska/Wizualizacja-algorytm-w-inteligencji-obliczeniowej/blob/main/images/i1.png" width="700"/>
 </p>
